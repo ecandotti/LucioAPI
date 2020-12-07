@@ -8,3 +8,5 @@ Enjoy
 - cd Lucio
 - npm i
 - npm start
+  
+LucioAPI used cors allowed for all to bypass CORS Security if you host the API and BOT yourselft
