@@ -1,0 +1,4 @@
+{
+    "DBCONNECT": "<your-dbconnection>",
+    "PORT": "<your-port>"
+}
