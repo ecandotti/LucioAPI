@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img height="250" hidth="250" src="https://miro.medium.com/max/3840/1*bNYZYQisFmGr8TpCtCaPTQ.jpeg">
-    <img height="250" hidth="250" src="https://www.actugaming.net/wp-content/uploads/2019/10/lucio-guide-overwatch.jpg">
+    <img height="250" hidth="200" src="https://miro.medium.com/max/3840/1*bNYZYQisFmGr8TpCtCaPTQ.jpeg">
+    <img height="250" hidth="200" src="https://www.actugaming.net/wp-content/uploads/2019/10/lucio-guide-overwatch.jpg">
 </h1>
 
 # ⚙️ API Luicio  
